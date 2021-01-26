@@ -1,0 +1,3 @@
+[submodule "multi_root_test_ExtA"]
+	path = multi_root_test_ExtA
+	url = https://github.com/TrippyZ/multi_root_test_ExtA.git
